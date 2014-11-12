@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C7ACD41-30DA-4DE1-998C-80B5D74FA0DC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Alias Manager</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B69216DFC6292C7189B6FDAEC2C501D54861C83C</key>
+		<string>https://github.com/miyako/4d-plugin-alias-manager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Alias Manager/v11/Alias Manager.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B69216DFC6292C7189B6FDAEC2C501D54861C83C</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/miyako/4d-plugin-alias-manager.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B69216DFC6292C7189B6FDAEC2C501D54861C83C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B69216DFC6292C7189B6FDAEC2C501D54861C83C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>4d-plugin-alias-manager</string>
+		</dict>
+	</array>
+</dict>
+</plist>
