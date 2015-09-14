@@ -10,14 +10,14 @@
 	<string>Alias Manager</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>B69216DFC6292C7189B6FDAEC2C501D54861C83C</key>
+		<key>23AC0E4763540C7351A72736E1C9BE88F681BF21</key>
 		<string>https://github.com/miyako/4d-plugin-alias-manager.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Alias Manager/v11/Alias Manager.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>B69216DFC6292C7189B6FDAEC2C501D54861C83C</key>
+		<key>23AC0E4763540C7351A72736E1C9BE88F681BF21</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B69216DFC6292C7189B6FDAEC2C501D54861C83C</string>
+	<string>23AC0E4763540C7351A72736E1C9BE88F681BF21</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B69216DFC6292C7189B6FDAEC2C501D54861C83C</string>
+			<string>23AC0E4763540C7351A72736E1C9BE88F681BF21</string>
 			<key>IDESourceControlWCCName</key>
 			<string>4d-plugin-alias-manager</string>
 		</dict>
