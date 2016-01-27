@@ -7,8 +7,7 @@ Function to create hard link, symbolic link, or Finder alias (a.k.a. bookmark).
 
 | carbon | cocoa | win32 | win64 |
 |:------:|:-----:|:---------:|:---------:|
-|10.6|10.8|🚫|🚫|
-
+|🆗|🆗|🚫|🚫|
 
 Commands
 ---
