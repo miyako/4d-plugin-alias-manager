@@ -3,19 +3,22 @@
 
 Function to create hard link, symbolic link, or Finder alias (a.k.a. bookmark).
 
-System
-------
+##Platform
 
-* OS X 10.8+ 4D Cocoa
-* OS X 10.7+ 4D Carbon
+| carbon | cocoa | win32 | win64 |
+|:------:|:-----:|:---------:|:---------:|
+|10.6|10.8|🚫|🚫|
+
 
 Commands
+---
+
+```
+AM_Create_link
+```
+
+Examples
 --------
 ```
-result:=AM Create link (source;target;type)
+result:=AM Create link ($source;$target;Link Symbolic)
 ```
-Constants
----------
-* Link Alias 2
-* Link Hard 1
-* Link Symbolic 0
