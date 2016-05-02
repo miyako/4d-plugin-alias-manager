@@ -13,11 +13,19 @@ Commands
 ---
 
 ```
-AM_Create_link
+// --- Alias
+ALIAS Create
+ALIAS Resolve
 ```
 
 Examples
 --------
 ```
-result:=AM Create link ($source;$target;Link Symbolic)
+$source:=Structure file
+$target:=System folder(Desktop)+"test"
+  //result:=ALIAS Create ($source;$target;Link Symbolic)
+result:=ALIAS Create ($source;$target;Link Alias)
+  //$result:=ALIAS Create ($source;$target;Link Hard)
+
+$resolved:=ALIAS Resolve ($target;$aliasType)
 ```
