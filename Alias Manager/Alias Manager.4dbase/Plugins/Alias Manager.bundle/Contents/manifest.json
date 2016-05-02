@@ -1,1 +1,1 @@
-﻿{"name":"Alias Manager","id":20000,"commands":[{"theme":"Alias","syntax":"AM Create link(&T;&T;&L):L"}]}
+﻿{"name":"Alias Manager","id":20000,"commands":[{"theme":"Alias","syntax":"ALIAS Create(&T;&T;&L):L"},{"theme":"Alias","syntax":"ALIAS Resolve(&T;&L):T"}]}
