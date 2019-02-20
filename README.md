@@ -17,6 +17,8 @@ Function to create hard link, symbolic link, or Finder alias (a.k.a. bookmark).
 
 ### Releases
 
+[2.0](https://github.com/miyako/4d-plugin-alias-manager/releases/tag/2.0)
+
 [1.0](https://github.com/miyako/4d-plugin-alias-manager/releases/tag/1.0)
 
 ``ALIAS Create`` returns 1 on success, or 0 on failure or if the destination file already exists.
