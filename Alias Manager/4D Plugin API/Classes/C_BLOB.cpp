@@ -22,6 +22,7 @@ void CBytes::fromParamAtIndex(PA_PluginParameters params, uint32_t index)
 		{
 			std::vector<uint8_t>buf(len);
 			bytes = &buf[0];
+			PA_GetBlobParameter(params, index, bytes);
 			this->setBytes((const uint8_t *)bytes, len);
 		}
 	}
