@@ -1,1 +1,16 @@
-﻿{"name":"Alias Manager","id":20000,"commands":[{"theme":"Alias","syntax":"ALIAS Create(&T;&T;&L):L"},{"theme":"Alias","syntax":"ALIAS Resolve(&T;&L):T"}]}
+{
+	"name": "Alias Manager",
+	"id": 20000,
+	"commands": [
+		{
+			"theme": "Alias",
+			"syntax": "ALIAS Create(&T;&T;&L):L",
+			"threadSafe": true
+		},
+		{
+			"theme": "Alias",
+			"syntax": "ALIAS Resolve(&T;&L):T",
+			"threadSafe": true
+		}
+	]
+}
