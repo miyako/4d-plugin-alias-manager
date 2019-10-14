@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0" xmlns:d4="http://www.4d.com/d4-ns">
+    <header>
+        <note>Alias Manager</note>
+    </header>
+    <group resname="themes">
+        <trans-unit id="" resname="8F301CD18B2641CD8907E9DDD131D5D4" translate="no">
+            <source>Link Type</source>
+        </trans-unit>
+    </group>
+    <group restype="x-4DK#" d4:groupName="8F301CD18B2641CD8907E9DDD131D5D4">
+        <trans-unit d4:value="0:L" id="8F301CD18B2641CD8907E9DDD131D5D4.1">
+            <source>Link Symbolic</source>
+        </trans-unit>
+        <trans-unit d4:value="1:L" id="8F301CD18B2641CD8907E9DDD131D5D4.2">
+            <source>Link Hard</source>
+        </trans-unit>
+        <trans-unit d4:value="2:L" id="8F301CD18B2641CD8907E9DDD131D5D4.3">
+            <source>Link Alias</source>
+        </trans-unit>
+    </group>
+</xliff>

@@ -1,0 +1,1 @@
+{	"themes": [		{			"theme": "Link Type",			"constants": [				{					"name": "Link Symbolic",					"value": "0:L"				},                {                    "name": "Link Hard",                    "value": "1:L"                },                {                    "name": "Link Alias",                    "value": "2:L"                }			]		}	]}
