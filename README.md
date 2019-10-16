@@ -13,10 +13,6 @@ Function to create hard link, symbolic link, or Finder alias (a.k.a. bookmark).
 
 <img src="https://user-images.githubusercontent.com/1725068/41266195-ddf767b2-6e30-11e8-9d6b-2adf6a9f57a5.png" width="32" height="32" />
 
-### Releases
-
-[3.0](https://github.com/miyako/4d-plugin-alias-manager/releases/tag/3.0)
-
 ``ALIAS Create`` returns 1 on success, or 0 on failure or if the destination file already exists.
 
 ``ALIAS Resolve`` returns in ``$2`` the alias type or ``-1`` if the file can't be resolved. It first attempts to resolve it as a symbolic link, then as a bookmark (Finder alias). Note that there is no concept of "resolving" a hard link. All hard links to the same file node are considered "real" paths. Normally, when a hard link is passed, the original path is returned.
