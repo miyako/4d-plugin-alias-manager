@@ -1,1 +1,4 @@
 alias-manager/build/*
+test/userPreferences.*
+test/Project/DerivedData/*
+build/*
