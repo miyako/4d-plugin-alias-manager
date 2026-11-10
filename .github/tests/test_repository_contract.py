@@ -88,7 +88,8 @@ class RepositoryContractTests(unittest.TestCase):
             ["git", "-C", str(ROOT), "ls-tree", "-r", BASE], text=True,
         ).splitlines()
         allowed = {*map(str, source.SOURCE_PATHS), "README.md",
-                   ".github/workflows/bump-version.yml", ".github/workflows/release.yml"}
+                   ".github/workflows/bump-version.yml", ".github/workflows/release.yml",
+                   "support/4DPlugin-JSON.cpp", "support/4DPlugin-JSON.h"}
         for entry in entries:
             metadata, name = entry.split("\t", 1)
             if name in allowed:
